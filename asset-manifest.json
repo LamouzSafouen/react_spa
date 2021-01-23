@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LamouzSafouen/react_spa/static/css/main.691afc1f.chunk.css",
-    "main.js": "/LamouzSafouen/react_spa/static/js/main.cd3a5d1b.chunk.js",
-    "main.js.map": "/LamouzSafouen/react_spa/static/js/main.cd3a5d1b.chunk.js.map",
-    "runtime-main.js": "/LamouzSafouen/react_spa/static/js/runtime-main.8f1098ec.js",
-    "runtime-main.js.map": "/LamouzSafouen/react_spa/static/js/runtime-main.8f1098ec.js.map",
-    "static/js/2.84bae60c.chunk.js": "/LamouzSafouen/react_spa/static/js/2.84bae60c.chunk.js",
-    "static/js/2.84bae60c.chunk.js.map": "/LamouzSafouen/react_spa/static/js/2.84bae60c.chunk.js.map",
-    "index.html": "/LamouzSafouen/react_spa/index.html",
-    "static/css/main.691afc1f.chunk.css.map": "/LamouzSafouen/react_spa/static/css/main.691afc1f.chunk.css.map",
-    "static/js/2.84bae60c.chunk.js.LICENSE.txt": "/LamouzSafouen/react_spa/static/js/2.84bae60c.chunk.js.LICENSE.txt",
-    "static/media/photo1.b37da398.jpg": "/LamouzSafouen/react_spa/static/media/photo1.b37da398.jpg",
-    "static/media/photo2.a00fed31.jpg": "/LamouzSafouen/react_spa/static/media/photo2.a00fed31.jpg",
-    "static/media/photo3.9ea2bac3.jpg": "/LamouzSafouen/react_spa/static/media/photo3.9ea2bac3.jpg",
-    "static/media/photo4.15857f21.jpg": "/LamouzSafouen/react_spa/static/media/photo4.15857f21.jpg"
+    "main.css": "/react_spa/static/css/main.691afc1f.chunk.css",
+    "main.js": "/react_spa/static/js/main.cd3a5d1b.chunk.js",
+    "main.js.map": "/react_spa/static/js/main.cd3a5d1b.chunk.js.map",
+    "runtime-main.js": "/react_spa/static/js/runtime-main.eb617f52.js",
+    "runtime-main.js.map": "/react_spa/static/js/runtime-main.eb617f52.js.map",
+    "static/js/2.84bae60c.chunk.js": "/react_spa/static/js/2.84bae60c.chunk.js",
+    "static/js/2.84bae60c.chunk.js.map": "/react_spa/static/js/2.84bae60c.chunk.js.map",
+    "index.html": "/react_spa/index.html",
+    "static/css/main.691afc1f.chunk.css.map": "/react_spa/static/css/main.691afc1f.chunk.css.map",
+    "static/js/2.84bae60c.chunk.js.LICENSE.txt": "/react_spa/static/js/2.84bae60c.chunk.js.LICENSE.txt",
+    "static/media/photo1.b37da398.jpg": "/react_spa/static/media/photo1.b37da398.jpg",
+    "static/media/photo2.a00fed31.jpg": "/react_spa/static/media/photo2.a00fed31.jpg",
+    "static/media/photo3.9ea2bac3.jpg": "/react_spa/static/media/photo3.9ea2bac3.jpg",
+    "static/media/photo4.15857f21.jpg": "/react_spa/static/media/photo4.15857f21.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f1098ec.js",
+    "static/js/runtime-main.eb617f52.js",
     "static/js/2.84bae60c.chunk.js",
     "static/css/main.691afc1f.chunk.css",
     "static/js/main.cd3a5d1b.chunk.js"
