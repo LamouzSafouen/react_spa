@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LamouzSafouen/react_spa.git/static/css/main.179fbfe9.chunk.css",
-    "main.js": "/LamouzSafouen/react_spa.git/static/js/main.7bf05683.chunk.js",
-    "main.js.map": "/LamouzSafouen/react_spa.git/static/js/main.7bf05683.chunk.js.map",
+    "main.css": "/LamouzSafouen/react_spa.git/static/css/main.691afc1f.chunk.css",
+    "main.js": "/LamouzSafouen/react_spa.git/static/js/main.cd3a5d1b.chunk.js",
+    "main.js.map": "/LamouzSafouen/react_spa.git/static/js/main.cd3a5d1b.chunk.js.map",
     "runtime-main.js": "/LamouzSafouen/react_spa.git/static/js/runtime-main.5a73d8bf.js",
     "runtime-main.js.map": "/LamouzSafouen/react_spa.git/static/js/runtime-main.5a73d8bf.js.map",
     "static/js/2.84bae60c.chunk.js": "/LamouzSafouen/react_spa.git/static/js/2.84bae60c.chunk.js",
     "static/js/2.84bae60c.chunk.js.map": "/LamouzSafouen/react_spa.git/static/js/2.84bae60c.chunk.js.map",
     "index.html": "/LamouzSafouen/react_spa.git/index.html",
-    "static/css/main.179fbfe9.chunk.css.map": "/LamouzSafouen/react_spa.git/static/css/main.179fbfe9.chunk.css.map",
+    "static/css/main.691afc1f.chunk.css.map": "/LamouzSafouen/react_spa.git/static/css/main.691afc1f.chunk.css.map",
     "static/js/2.84bae60c.chunk.js.LICENSE.txt": "/LamouzSafouen/react_spa.git/static/js/2.84bae60c.chunk.js.LICENSE.txt",
     "static/media/photo1.b37da398.jpg": "/LamouzSafouen/react_spa.git/static/media/photo1.b37da398.jpg",
     "static/media/photo2.a00fed31.jpg": "/LamouzSafouen/react_spa.git/static/media/photo2.a00fed31.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.5a73d8bf.js",
     "static/js/2.84bae60c.chunk.js",
-    "static/css/main.179fbfe9.chunk.css",
-    "static/js/main.7bf05683.chunk.js"
+    "static/css/main.691afc1f.chunk.css",
+    "static/js/main.cd3a5d1b.chunk.js"
   ]
 }
