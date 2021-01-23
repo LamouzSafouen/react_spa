@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LamouzSafouen/react_spa.git/static/css/main.179fbfe9.chunk.css",
+    "main.js": "/LamouzSafouen/react_spa.git/static/js/main.7bf05683.chunk.js",
+    "main.js.map": "/LamouzSafouen/react_spa.git/static/js/main.7bf05683.chunk.js.map",
+    "runtime-main.js": "/LamouzSafouen/react_spa.git/static/js/runtime-main.5a73d8bf.js",
+    "runtime-main.js.map": "/LamouzSafouen/react_spa.git/static/js/runtime-main.5a73d8bf.js.map",
+    "static/js/2.84bae60c.chunk.js": "/LamouzSafouen/react_spa.git/static/js/2.84bae60c.chunk.js",
+    "static/js/2.84bae60c.chunk.js.map": "/LamouzSafouen/react_spa.git/static/js/2.84bae60c.chunk.js.map",
+    "index.html": "/LamouzSafouen/react_spa.git/index.html",
+    "static/css/main.179fbfe9.chunk.css.map": "/LamouzSafouen/react_spa.git/static/css/main.179fbfe9.chunk.css.map",
+    "static/js/2.84bae60c.chunk.js.LICENSE.txt": "/LamouzSafouen/react_spa.git/static/js/2.84bae60c.chunk.js.LICENSE.txt",
+    "static/media/photo1.b37da398.jpg": "/LamouzSafouen/react_spa.git/static/media/photo1.b37da398.jpg",
+    "static/media/photo2.a00fed31.jpg": "/LamouzSafouen/react_spa.git/static/media/photo2.a00fed31.jpg",
+    "static/media/photo3.9ea2bac3.jpg": "/LamouzSafouen/react_spa.git/static/media/photo3.9ea2bac3.jpg",
+    "static/media/photo4.15857f21.jpg": "/LamouzSafouen/react_spa.git/static/media/photo4.15857f21.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a73d8bf.js",
+    "static/js/2.84bae60c.chunk.js",
+    "static/css/main.179fbfe9.chunk.css",
+    "static/js/main.7bf05683.chunk.js"
+  ]
+}
